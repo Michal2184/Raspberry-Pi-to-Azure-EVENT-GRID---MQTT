@@ -8,6 +8,5 @@ Raspberry PI was equipped with:
 - 0.91 OLED Display
 - 2x Relays for voltage switching
 - 2x LEDs
-- 2x Buttons to control LEDs over broker connection
 
   Paho MQTT library was used for this project
