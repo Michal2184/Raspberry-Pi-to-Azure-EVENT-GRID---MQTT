@@ -10,3 +10,6 @@ Raspberry PI was equipped with:
 - 2x LEDs
 
   Paho MQTT library was used for this project
+
+Create ceritificates using Azure Documentation: 
+https://learn.microsoft.com/en-us/azure/event-grid/mqtt-certificate-chain-client-authentication
